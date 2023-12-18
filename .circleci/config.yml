@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  azure-cli: circleci/azure-cli@1.22
+  azure-cli: circleci/azure-cli@1.2.2
   orb-tools: circleci/orb-tools@10
 
 # Pipeline parameters

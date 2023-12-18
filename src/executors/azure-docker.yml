@@ -1,0 +1,5 @@
+description: >
+  Microsoft's Azure CLI Docker image
+
+docker:
+  - image: mcr.microsoft.com/azure-cli@2.53.1
